@@ -1,4 +1,3 @@
-# Apokryf 
 ## Open Source collective of first Technomantic Guild 
 ---
 Our goal is to make diffrence in this world by applying improvements that truely cares by 
