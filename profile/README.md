@@ -6,9 +6,7 @@ it as a debugging tool.
 
 #### We aim to bring better future 
 
-Reaching out to catch progress of that mission, even into deepest void of darkness will be 
-not even thrilling if it's for cause. Scope that hits us in process of experiencing true scale 
-of complexiti of universe's reality can make change in us.
+Reaching out to not known future can be hard and scary, but it's not Hood [...)
 
 #### Enjoy the darkness
 
