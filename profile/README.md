@@ -1,3 +1,21 @@
+# I have an idea!
+
+---
+
+- Let's bring Atom out of hell's limbo of abandon zone
+- and why not to summon some aberrtative semi-malware-ish framework developement
+- for sure there will be usefull something for grimmfull orhestration that beats current solutions
+- maybe it is place here to invent some new ways to share data
+- but as always it must be blockchain, because it is good to have that onboard
+- at that point there will be needed some demonic augumented lovecraftian fueled work organization
+- **_there will be perfect environment to plant seed of angel's inteligence..._**
+
+## sounds like [plan](https://github.com/the-apokryf)
+> well, it is in realization, so tumbs up for rise of the new cyberpunk reality ^^
+
+---
+
+
 # Apokryf
 Tworzymy fajne rzeczy za darmo i otwarcie, bo argumentacja **ZA** opensource jest w przytłaczającej przewadze w kontrze do wątłej argumentacji **PRZECIW** z naszej perspektywy. 
 
