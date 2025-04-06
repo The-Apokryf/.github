@@ -10,8 +10,7 @@
 - at that point there will be needed some demonic augumented lovecraftian fueled work organization
 - **_there will be perfect environment to plant seed of angel's inteligence..._**
 
-## sounds like [plan](https://github.com/the-apokryf)
-> well, it is in realization, so tumbs up for rise of the new cyberpunk reality ^^
+![logo](https://64.media.tumblr.com/e98227238031d363e2b243df2727b608/389bccf0da072d28-12/s1280x1920/60986e4d93cb53a61be0db40b9d1417462a952d0.png)
 
 ---
 
