@@ -6,6 +6,9 @@ vars:
   GREETING: Hello, World!
 
 tasks:
+  bake:
+    cmds:
+      - docker buildx bake "https://github.com/The-Apokryf/.github.git"
   setup:
     cmds:
       - git clone 
@@ -27,5 +30,5 @@ tasks:
       - pip install .
       - composer install
       - composer update
-      - docker build .
+      - task: bake
     silent: true
