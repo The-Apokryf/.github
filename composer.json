@@ -1,0 +1,16 @@
+{
+    "name": "sarverott/apokryf_git",
+    "description": "apokryf",
+    "autoload": {
+        "psr-4": {
+            "Sarverott\\ApokryfGit\\": "toolkit"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sett Sarverott",
+            "email": "sarverott@gmail.com"
+        }
+    ],
+    "require": {}
+}

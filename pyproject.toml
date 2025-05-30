@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "apokryf-github"
+version = "0.1.0"
+description = "apokryf.github"
+authors = ["Sett Sarverott <sarverott@gmail.com>"]
+readme = "README.md"
+packages = [{include = "apokryf"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+go-task-bin = "^3.43.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

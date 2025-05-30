@@ -1,0 +1,28 @@
+{
+  "name": "apokryf.github",
+  "version": "1.0.0",
+  "description": ".github repository",
+  "keywords": [
+    "apokryf"
+  ],
+  "homepage": "https://github.com/The-Apokryf/.github.wiki",
+  "bugs": {
+    "url": "https://github.com/The-Apokryf/.github/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Apokryf/.github.git"
+  },
+  "author": "Sett Sarverott",
+  "type": "commonjs",
+  "main": "toolkit/init.js",
+  "scripts": {
+    "start": "task"
+  },
+  "dependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@go-task/cli": "^3.43.3",
+    "dockerode": "^4.0.6",
+    "snyk": "^1.1297.1"
+  }
+}

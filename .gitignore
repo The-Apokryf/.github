@@ -147,3 +147,4 @@ lib64/
 # REFNOTE: by casting spell `bash git python,node` for https://github.com/The-Apokryf/.github.git with  [UNIXUSAT=1748592723131]
 # REFNOTE: best regards and with goodluck charm casting
 # REFNOTE:    ~Apokryf Institute of Technomantic Research
+/vendor/

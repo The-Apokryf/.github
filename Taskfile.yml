@@ -1,0 +1,31 @@
+# https://taskfile.dev
+
+version: '3'
+
+vars:
+  GREETING: Hello, World!
+
+tasks:
+  setup:
+    cmds:
+      - git clone 
+  load:
+    cmds:
+      - git pull
+      - git status
+      - git submodule foreach git pull
+      - git status
+  save:
+    cmds:
+      - git add * .gitmodules
+      - git commit -m "save submodules update pulling and any other change that was been made"
+      - git push
+  default:
+    cmds:
+      - npm install
+      - pip -m venv .venv
+      - pip install .
+      - composer install
+      - composer update
+      - docker build .
+    silent: true
