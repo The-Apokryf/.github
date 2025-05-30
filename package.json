@@ -17,8 +17,10 @@
   "type": "commonjs",
   "main": "toolkit/init.js",
   "scripts": {
+    "test": "lefthook add -d pre-commit",
     "start": "task",
-    "build":"lefthook install"
+    "setup": "task setup",
+    "githooks_install": "lefthook install"
   },
   "dependencies": {
     "@biomejs/biome": "^1.9.4",

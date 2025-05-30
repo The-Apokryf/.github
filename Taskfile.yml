@@ -25,7 +25,11 @@ tasks:
       - git push
   default:
     cmds:
+      - mkdir ~/__WORKSHOP ~/__WORKSHOP/forge ~/__WORKSHOP/archive ~/__WORKSHOP/craftbook ~/__WORKSHOP/devarmory
+      - git clone https://github.com/The-Apokryf/.github.git ~/__WORKSHOP/devarmory/apokryf
+      - cd ~/__WORKSHOP/devarmory/apokryf
       - npm install
+      - npm run githooks_install
       - pip -m venv .venv
       - pip install .
       - composer install

@@ -19,8 +19,8 @@
 #
 pre-commit:
 #   parallel: true
-    jobs:
-      - run: echo "lefthooks works well, test results with success"
+#    jobs:
+#      - run: echo "lefthooks works well, test results with success"
 #       glob: "*.{js,ts,jsx,tsx}"
 #
 #     - name: rubocop
