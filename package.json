@@ -17,7 +17,8 @@
   "type": "commonjs",
   "main": "toolkit/init.js",
   "scripts": {
-    "start": "task"
+    "start": "task",
+    "build":"lefthook install"
   },
   "dependencies": {
     "@biomejs/biome": "^1.9.4",
