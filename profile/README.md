@@ -8,7 +8,7 @@
 
 ### ENGLISH:
 
-The Inceptorium Apocrypha is a federalized and decentralized research institution for the development of technomancy as a branch of science.
+The Inceptorium Apokryf is a federalized and decentralized research institution for the development of technomancy as a branch of science.
 
 The Inceptorium's main areas of research are the evolution of cognitive radio and control systems, available within the framework of continuous monitoring, aimed at protecting artificial intelligence from warnings from attacks on multiple fronts.
 
